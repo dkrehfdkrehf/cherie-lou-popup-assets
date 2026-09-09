@@ -10,6 +10,7 @@ Design by rawpetal studio.
 - `v4` — alt.4 artwork with the updated Chérie Lou body-copy lettering
 - `v5` — final envelope and two approved lettering-size options
 - `v6` — client-selected Option 02 with the original flower-free envelope texture
+- `v7` — supplied envelope-front cleanup layer and corrected Option 02 body lettering
 
 The `v5` shared artwork uses `envelope-back.webp`, `envelope-front.webp`,
 `letter-card.webp`, and the Submit/Close files. Choose
